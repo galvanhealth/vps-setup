@@ -1,0 +1,4 @@
+Command Codes for VPS:
+
+VULTR - (COPY THE TEXT BELOW)
+bash <(wget -qO- https://static.galvan.health/softnode/galvan-node_linux-amd64.sh)
